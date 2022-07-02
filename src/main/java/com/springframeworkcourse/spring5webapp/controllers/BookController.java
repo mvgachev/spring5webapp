@@ -1,4 +1,4 @@
-package com.springframeworkcourse.spring5webapp;
+package com.springframeworkcourse.spring5webapp.controllers;
 
 import com.springframeworkcourse.spring5webapp.repositories.BookRepository;
 import org.springframework.stereotype.Controller;
